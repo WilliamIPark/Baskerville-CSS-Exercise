@@ -1,0 +1,147 @@
+body
+{
+    margin:auto;
+    width: 70%;
+    max-width: 760px;
+    min-width:320px;
+    
+    font-size: 100%;
+}
+
+.version1
+{
+    font-family: 'Libre Baskerville', Georgia, serif;
+    line-height: 1.6em;
+}
+
+.version2
+{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6em;
+}
+
+hr
+{
+    border: 1px solid hotpink;
+}
+
+/* =====================TYPOGRAPHY==================== */
+
+h1, h2, h3
+{
+    font-weight: normal;
+}
+
+.dropcaps
+{
+    float: left;
+    font-size: 5.59em;
+    padding-bottom: 10px;
+}
+
+.uppercase
+{
+    text-transform: uppercase;
+}
+
+.indent
+{
+    text-indent: 2em;
+}
+
+/* Version 1 */
+
+
+.version1 h1 
+{
+    font-size: 3.998em;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+.version1 h2 
+{
+    font-size: 1.999em;
+    font-style: italic;
+}
+
+.version1 h3
+{
+    margin-top: 4em;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+.version1 .intro
+{
+    font-size: 1.212em;
+    margin: 2.5em 0;
+    line-height: 1.6em;
+}
+
+.version1 blockquote
+{
+    margin: 2.5em 0;
+    color: #888;
+    font-style: italic;
+    font-size: 1.212em;
+    line-height: 1.6em;
+    text-indent: -0.39em
+}
+
+.version1 cite
+{
+    font-size: 0.707em;
+}
+
+/* Version 2 */
+
+.version2 h1
+{
+    font-size: 3.998em;
+    margin-top: 20px;
+    margin-bottom:40px;
+}
+
+.version2 h2
+{
+    font-size: 1.414em;
+    font-style: italic;
+}
+
+.version2 h3
+{
+    margin-top: 4em;   
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+.version2 p
+{
+    margin: 0;
+}
+
+.version2 .intro
+{
+    margin: 2.5em 0;
+    font-size: 1.212em;
+    line-height: 1.4em;
+}
+
+.version2 blockquote
+{
+    margin: 2.5em 0;
+    color: #888;
+    text-indent: -0.4em;
+    font-size: 1.212em;
+    line-height: 1.5em;
+}
+
+.version2 blockquote p
+{
+    margin-bottom: 1em;
+}   
+
+.version2 cite
+{
+    font-size: 0.707em;
+}
