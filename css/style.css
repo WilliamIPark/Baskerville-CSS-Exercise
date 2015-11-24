@@ -57,11 +57,13 @@ h1, h2, h3
     font-size: 3.998em;
     margin-top: 25px;
     margin-bottom: 35px;
+    line-height: 1.2em;
 }
 .version1 h2 
 {
     font-size: 1.999em;
     font-style: italic;
+    line-height: 1.1em;
 }
 
 .version1 h3
@@ -100,6 +102,7 @@ h1, h2, h3
     font-size: 3.998em;
     margin-top: 20px;
     margin-bottom:40px;
+    line-height: 1.2em;
 }
 
 .version2 h2
