@@ -14,7 +14,7 @@ body
     line-height: 1.6em;
 }
 
-.version2
+.version2, .version3
 {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.6em;
@@ -147,4 +147,48 @@ h1, h2, h3
 .version2 cite
 {
     font-size: 0.707em;
+}
+
+/* Version 3 */
+
+.version3 h1
+{
+    font-family: 'Slabo 27px', serif;
+    font-size: 3.998em;
+    margin:0;
+}
+
+.version3 h2
+{
+    font-family: 'Slabo 27px', serif;
+    font-style: italic;
+    margin-top:30px;
+}
+
+.version3 h3
+{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.version3 .intro
+{
+    margin: 2.5em 0;
+    font-size: 1.212em;
+    line-height: 1.5em;
+}
+
+.version3 blockquote
+{
+    font-family: 'Slabo 27px', serif;
+    margin: 2.5em 0 4em 0;
+    font-size: 1.414em;
+    line-height:1.5em;
+    color: #888;
+    text-indent: -0.35em
+}
+
+.version3 cite
+{
+    font-size: 0.717em;
 }
